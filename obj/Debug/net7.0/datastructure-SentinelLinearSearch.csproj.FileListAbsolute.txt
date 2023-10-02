@@ -1,0 +1,15 @@
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/bin/Debug/net7.0/datastructure-SentinelLinearSearch
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/bin/Debug/net7.0/datastructure-SentinelLinearSearch.deps.json
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/bin/Debug/net7.0/datastructure-SentinelLinearSearch.runtimeconfig.json
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/bin/Debug/net7.0/datastructure-SentinelLinearSearch.dll
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/bin/Debug/net7.0/datastructure-SentinelLinearSearch.pdb
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.csproj.AssemblyReference.cache
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.AssemblyInfoInputs.cache
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.AssemblyInfo.cs
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.csproj.CoreCompileInputs.cache
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.dll
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/refint/datastructure-SentinelLinearSearch.dll
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.pdb
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/datastructure-SentinelLinearSearch.genruntimeconfig.cache
+/home/chandan/Documents/datastructure/datastructure-SentinelLinearSearch/obj/Debug/net7.0/ref/datastructure-SentinelLinearSearch.dll

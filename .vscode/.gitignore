@@ -1,0 +1,20 @@
+# Visual Studio Code #
+.vscode/
+
+# Build results #
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Aa][Rr][Cc][Hh]64/
+bld/
+[Bb][Ii][Nn]/
+[Oo][Bb][Jj]/
+[Ll][Oo][Gg][Ss]/
+[Ll][Oo][Gg][Ss]/[Dd][Ee][Bb][Uu][Gg]/
+[Ll][Oo][Gg][Ss]/[Rr][Ee][Ll][Ee][Aa][Ss][Ee]/
+[Tt][Ee][Ss][Tt][Rr][Ee][Ss][Uu][Ll][Tt][Ss]/
+[Tt][Ee][Ss][Tt][Rr][Ee][Ss][Uu][Ll][Tt][Ss]/[Bb][Ii][Nn]/
+[Tt][Ee][Ss][Tt][Rr][Ee][Ss][Uu][Ll][Tt][Ss]/[Oo][Bb][Jj]/
